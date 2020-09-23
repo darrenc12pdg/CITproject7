@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CITproject7", "CITproject7\CITproject7.csproj", "{2AD0F99A-4545-43A8-A142-0CC49BA16027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatsLib", "StatsLib\StatsLib.csproj", "{3A65E923-E150-4E57-BF58-3BF27E840204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD0F99A-4545-43A8-A142-0CC49BA16027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD0F99A-4545-43A8-A142-0CC49BA16027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD0F99A-4545-43A8-A142-0CC49BA16027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD0F99A-4545-43A8-A142-0CC49BA16027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A65E923-E150-4E57-BF58-3BF27E840204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A65E923-E150-4E57-BF58-3BF27E840204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A65E923-E150-4E57-BF58-3BF27E840204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A65E923-E150-4E57-BF58-3BF27E840204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {578979AF-38FA-4FA3-8307-21F070D47A98}
+	EndGlobalSection
+EndGlobal
